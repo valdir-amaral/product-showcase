@@ -8,8 +8,8 @@
                     <h2 class="title">{{ product.name }}</h2>
                     <p>{{ product.description }}</p>
                 </RouterLink>
-                
             </div>
+            <ProductPaginate :totalProducts="productsQuantity" :productsPerPage="productsPerPage" />
         </div>
         <div v-else-if="products && !products.length">
             <p class="no-results">Busca sem resultados :/ Tente buscar outro termo.</p>
@@ -24,12 +24,18 @@
 <script>
 import { api } from '@/services.js';
 import { serialize } from '@/helpers';
+import ProductPaginate from '@/components/ProductPaginate.vue';
 
 export default {
+    name: 'ProductList',
+    components: {
+        ProductPaginate
+    },
     data() {
         return {
             products: null,
-            productsPerPage: 9
+            productsPerPage: 3,
+            productsQuantity: 0
         }
     },
     computed: {
@@ -42,6 +48,7 @@ export default {
     methods: {
         getProducts() {
             api.get(this.url).then(res => {
+                this.productsQuantity = Number(res.headers['x-total-count'])
                 this.products = res.data;
             })
         }

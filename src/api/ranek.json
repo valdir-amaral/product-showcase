@@ -165,6 +165,51 @@
             "sold": "false",
             "description": "Computador Gamer de última geração",
             "photos": null
+        },
+        {
+            "id": "smartwatch",
+            "name": "Smartwatch",
+            "user_id": "luciaoliveira@gmail.com",
+            "price": "199",
+            "sold": "false",
+            "description": "Relógio inteligente com monitor de atividades",
+            "photos": null
+        },
+        {
+            "id": "blender",
+            "name": "Liquidificador",
+            "user_id": "gustavocosta@gmail.com",
+            "price": "79",
+            "sold": "true",
+            "description": "Liquidificador potente para sucos e vitaminas",
+            "photos": null
+        },
+        {
+            "id": "sneakers",
+            "name": "Tênis Esportivo",
+            "user_id": "larissasantos@gmail.com",
+            "price": "129",
+            "sold": "false",
+            "description": "Tênis confortável para atividades esportivas",
+            "photos": null
+        },
+        {
+            "id": "coffee_maker",
+            "name": "Cafeteira",
+            "user_id": "joaozinho@gmail.com",
+            "price": "149",
+            "sold": "true",
+            "description": "Cafeteira automática para café fresco",
+            "photos": null
+        },
+        {
+            "id": "backpack",
+            "name": "Mochila",
+            "user_id": "mariasilva@gmail.com",
+            "price": "49",
+            "sold": "false",
+            "description": "Mochila resistente e espaçosa para viagens",
+            "photos": null
         }
     ]
 }
