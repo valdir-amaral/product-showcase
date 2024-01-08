@@ -11,19 +11,32 @@
 
 <script>
 import { api } from '@/services.js';
-
+import { serialize } from '@/helpers';
 
 export default {
     data() {
         return {
-            products: null
+            products: null,
+            productsPerPage: 9
+        }
+    },
+    computed: {
+        url() {
+            const query = serialize(this.$route.query)
+            return `/products?_limit=${this.productsPerPage}${query}` 
+
         }
     },
     methods: {
         getProducts() {
-            api.get("/products").then(res => {
+            api.get(this.url).then(res => {
                 this.products = res.data;
             })
+        }
+    },
+    watch: {
+        url() {
+            this.getProducts();
         }
     },
     created() {
