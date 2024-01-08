@@ -1,0 +1,170 @@
+{
+    "users": [
+        {
+            "id": "joaozinho@gmail.com",
+            "email": "joaozinho@gmail.com",
+            "full_name": "João Victor",
+            "password": "senhasegura",
+            "street": "Rua dos Bobos",
+            "cep": "12345678",
+            "number": "64",
+            "state": "SP",
+            "city": "Mauá"
+        },
+        {
+            "id": "mariasilva@gmail.com",
+            "email": "mariasilva@gmail.com",
+            "full_name": "Maria Silva",
+            "password": "senha123",
+            "street": "Avenida Principal",
+            "cep": "98765432",
+            "number": "22",
+            "state": "RJ",
+            "city": "Rio de Janeiro"
+        },
+        {
+            "id": "carlosrocha@gmail.com",
+            "email": "carlosrocha@gmail.com",
+            "full_name": "Carlos Rocha",
+            "password": "123456",
+            "street": "Rua das Flores",
+            "cep": "54321098",
+            "number": "7",
+            "state": "MG",
+            "city": "Belo Horizonte"
+        },
+        {
+            "id": "anapereira@gmail.com",
+            "email": "anapereira@gmail.com",
+            "full_name": "Ana Pereira",
+            "password": "senhaana",
+            "street": "Avenida das Palmeiras",
+            "cep": "76543210",
+            "number": "45",
+            "state": "BA",
+            "city": "Salvador"
+        },
+        {
+            "id": "pedrofonseca@gmail.com",
+            "email": "pedrofonseca@gmail.com",
+            "full_name": "Pedro Fonseca",
+            "password": "pedro123",
+            "street": "Rua dos Girassóis",
+            "cep": "13579024",
+            "number": "12",
+            "state": "PE",
+            "city": "Recife"
+        },
+        {
+            "id": "camilamoraes@gmail.com",
+            "email": "camilamoraes@gmail.com",
+            "full_name": "Camila Moraes",
+            "password": "camila456",
+            "street": "Travessa das Orquídeas",
+            "cep": "45678901",
+            "number": "78",
+            "state": "CE",
+            "city": "Fortaleza"
+        },
+        {
+            "id": "renatosilveira@gmail.com",
+            "email": "renatosilveira@gmail.com",
+            "full_name": "Renato Silveira",
+            "password": "senha1234",
+            "street": "Avenida dos Pinheiros",
+            "cep": "56789012",
+            "number": "34",
+            "state": "RS",
+            "city": "Porto Alegre"
+        },
+        {
+            "id": "luciaoliveira@gmail.com",
+            "email": "luciaoliveira@gmail.com",
+            "full_name": "Lucia Oliveira",
+            "password": "lucia789",
+            "street": "Rua das Violetas",
+            "cep": "10987654",
+            "number": "56",
+            "state": "PR",
+            "city": "Curitiba"
+        },
+        {
+            "id": "gustavocosta@gmail.com",
+            "email": "gustavocosta@gmail.com",
+            "full_name": "Gustavo Costa",
+            "password": "gustavo987",
+            "street": "Travessa dos Lírios",
+            "cep": "32109876",
+            "number": "90",
+            "state": "GO",
+            "city": "Goiânia"
+        },
+        {
+            "id": "larissasantos@gmail.com",
+            "email": "larissasantos@gmail.com",
+            "full_name": "Larissa Santos",
+            "password": "larissa123",
+            "street": "Avenida das Rosas",
+            "cep": "87654321",
+            "number": "23",
+            "state": "SC",
+            "city": "Florianópolis"
+        }
+    ],
+    "products": [
+        {
+            "id": "notebook",
+            "name": "Notebook",
+            "user_id": "joaozinho@gmail.com",
+            "price": "4399",
+            "sold": "false",
+            "description": "Notebook legal, muito bom e BARATO",
+            "photos": null
+        },
+        {
+            "id": "smartphone",
+            "name": "Smartphone",
+            "user_id": "mariasilva@gmail.com",
+            "price": "1299",
+            "sold": "true",
+            "description": "Smartphone de última geração",
+            "photos": null
+        },
+        {
+            "id": "tv",
+            "name": "Smart TV",
+            "user_id": "carlosrocha@gmail.com",
+            "price": "2999",
+            "sold": "false",
+            "description": "TV inteligente com resolução 4K",
+            "photos": null
+        },
+        {
+            "id": "headphones",
+            "name": "Fones de Ouvido",
+            "user_id": "anapereira@gmail.com",
+            "price": "99",
+            "sold": "true",
+            "description": "Fones de ouvido sem fio de alta qualidade",
+            "photos": null
+        },
+        {
+            "id": "camera",
+            "name": "Câmera Digital",
+            "user_id": "pedrofonseca@gmail.com",
+            "price": "799",
+            "sold": "false",
+            "description": "Câmera digital de 20MP com zoom óptico",
+            "photos": null
+        },
+        {
+            "id": "gaming_pc",
+            "name": "PC Gamer",
+            "user_id": "camilamoraes@gmail.com",
+            "price": "2499",
+            "sold": "false",
+            "description": "Computador Gamer de última geração",
+            "photos": null
+        }
+    ]
+}
