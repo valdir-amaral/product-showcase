@@ -210,6 +210,402 @@
             "sold": "false",
             "description": "Mochila resistente e espaçosa para viagens",
             "photos": null
+        },
+        {
+            "id": "notebook",
+            "name": "Notebook",
+            "user_id": "joaozinho@gmail.com",
+            "price": "4399",
+            "sold": "false",
+            "description": "Notebook legal, muito bom e BARATO",
+            "photos": null
+        },
+        {
+            "id": "smartphone",
+            "name": "Smartphone",
+            "user_id": "mariasilva@gmail.com",
+            "price": "1299",
+            "sold": "true",
+            "description": "Smartphone de última geração",
+            "photos": null
+        },
+        {
+            "id": "tv",
+            "name": "Smart TV",
+            "user_id": "carlosrocha@gmail.com",
+            "price": "2999",
+            "sold": "false",
+            "description": "TV inteligente com resolução 4K",
+            "photos": null
+        },
+        {
+            "id": "headphones",
+            "name": "Fones de Ouvido",
+            "user_id": "anapereira@gmail.com",
+            "price": "99",
+            "sold": "true",
+            "description": "Fones de ouvido sem fio de alta qualidade",
+            "photos": null
+        },
+        {
+            "id": "camera",
+            "name": "Câmera Digital",
+            "user_id": "pedrofonseca@gmail.com",
+            "price": "799",
+            "sold": "false",
+            "description": "Câmera digital de 20MP com zoom óptico",
+            "photos": null
+        },
+        {
+            "id": "gaming_pc",
+            "name": "PC Gamer",
+            "user_id": "camilamoraes@gmail.com",
+            "price": "2499",
+            "sold": "false",
+            "description": "Computador Gamer de última geração",
+            "photos": null
+        },
+        {
+            "id": "smartwatch",
+            "name": "Smartwatch",
+            "user_id": "luciaoliveira@gmail.com",
+            "price": "199",
+            "sold": "false",
+            "description": "Relógio inteligente com monitor de atividades",
+            "photos": null
+        },
+        {
+            "id": "blender",
+            "name": "Liquidificador",
+            "user_id": "gustavocosta@gmail.com",
+            "price": "79",
+            "sold": "true",
+            "description": "Liquidificador potente para sucos e vitaminas",
+            "photos": null
+        },
+        {
+            "id": "sneakers",
+            "name": "Tênis Esportivo",
+            "user_id": "larissasantos@gmail.com",
+            "price": "129",
+            "sold": "false",
+            "description": "Tênis confortável para atividades esportivas",
+            "photos": null
+        },
+        {
+            "id": "coffee_maker",
+            "name": "Cafeteira",
+            "user_id": "joaozinho@gmail.com",
+            "price": "149",
+            "sold": "true",
+            "description": "Cafeteira automática para café fresco",
+            "photos": null
+        },
+        {
+            "id": "backpack",
+            "name": "Mochila",
+            "user_id": "mariasilva@gmail.com",
+            "price": "49",
+            "sold": "false",
+            "description": "Mochila resistente e espaçosa para viagens",
+            "photos": null
+        },
+        {
+            "id": "notebook",
+            "name": "Notebook",
+            "user_id": "joaozinho@gmail.com",
+            "price": "4399",
+            "sold": "false",
+            "description": "Notebook legal, muito bom e BARATO",
+            "photos": null
+        },
+        {
+            "id": "smartphone",
+            "name": "Smartphone",
+            "user_id": "mariasilva@gmail.com",
+            "price": "1299",
+            "sold": "true",
+            "description": "Smartphone de última geração",
+            "photos": null
+        },
+        {
+            "id": "tv",
+            "name": "Smart TV",
+            "user_id": "carlosrocha@gmail.com",
+            "price": "2999",
+            "sold": "false",
+            "description": "TV inteligente com resolução 4K",
+            "photos": null
+        },
+        {
+            "id": "headphones",
+            "name": "Fones de Ouvido",
+            "user_id": "anapereira@gmail.com",
+            "price": "99",
+            "sold": "true",
+            "description": "Fones de ouvido sem fio de alta qualidade",
+            "photos": null
+        },
+        {
+            "id": "camera",
+            "name": "Câmera Digital",
+            "user_id": "pedrofonseca@gmail.com",
+            "price": "799",
+            "sold": "false",
+            "description": "Câmera digital de 20MP com zoom óptico",
+            "photos": null
+        },
+        {
+            "id": "gaming_pc",
+            "name": "PC Gamer",
+            "user_id": "camilamoraes@gmail.com",
+            "price": "2499",
+            "sold": "false",
+            "description": "Computador Gamer de última geração",
+            "photos": null
+        },
+        {
+            "id": "smartwatch",
+            "name": "Smartwatch",
+            "user_id": "luciaoliveira@gmail.com",
+            "price": "199",
+            "sold": "false",
+            "description": "Relógio inteligente com monitor de atividades",
+            "photos": null
+        },
+        {
+            "id": "blender",
+            "name": "Liquidificador",
+            "user_id": "gustavocosta@gmail.com",
+            "price": "79",
+            "sold": "true",
+            "description": "Liquidificador potente para sucos e vitaminas",
+            "photos": null
+        },
+        {
+            "id": "sneakers",
+            "name": "Tênis Esportivo",
+            "user_id": "larissasantos@gmail.com",
+            "price": "129",
+            "sold": "false",
+            "description": "Tênis confortável para atividades esportivas",
+            "photos": null
+        },
+        {
+            "id": "coffee_maker",
+            "name": "Cafeteira",
+            "user_id": "joaozinho@gmail.com",
+            "price": "149",
+            "sold": "true",
+            "description": "Cafeteira automática para café fresco",
+            "photos": null
+        },
+        {
+            "id": "backpack",
+            "name": "Mochila",
+            "user_id": "mariasilva@gmail.com",
+            "price": "49",
+            "sold": "false",
+            "description": "Mochila resistente e espaçosa para viagens",
+            "photos": null
+        },
+        {
+            "id": "notebook",
+            "name": "Notebook",
+            "user_id": "joaozinho@gmail.com",
+            "price": "4399",
+            "sold": "false",
+            "description": "Notebook legal, muito bom e BARATO",
+            "photos": null
+        },
+        {
+            "id": "smartphone",
+            "name": "Smartphone",
+            "user_id": "mariasilva@gmail.com",
+            "price": "1299",
+            "sold": "true",
+            "description": "Smartphone de última geração",
+            "photos": null
+        },
+        {
+            "id": "tv",
+            "name": "Smart TV",
+            "user_id": "carlosrocha@gmail.com",
+            "price": "2999",
+            "sold": "false",
+            "description": "TV inteligente com resolução 4K",
+            "photos": null
+        },
+        {
+            "id": "headphones",
+            "name": "Fones de Ouvido",
+            "user_id": "anapereira@gmail.com",
+            "price": "99",
+            "sold": "true",
+            "description": "Fones de ouvido sem fio de alta qualidade",
+            "photos": null
+        },
+        {
+            "id": "camera",
+            "name": "Câmera Digital",
+            "user_id": "pedrofonseca@gmail.com",
+            "price": "799",
+            "sold": "false",
+            "description": "Câmera digital de 20MP com zoom óptico",
+            "photos": null
+        },
+        {
+            "id": "gaming_pc",
+            "name": "PC Gamer",
+            "user_id": "camilamoraes@gmail.com",
+            "price": "2499",
+            "sold": "false",
+            "description": "Computador Gamer de última geração",
+            "photos": null
+        },
+        {
+            "id": "smartwatch",
+            "name": "Smartwatch",
+            "user_id": "luciaoliveira@gmail.com",
+            "price": "199",
+            "sold": "false",
+            "description": "Relógio inteligente com monitor de atividades",
+            "photos": null
+        },
+        {
+            "id": "blender",
+            "name": "Liquidificador",
+            "user_id": "gustavocosta@gmail.com",
+            "price": "79",
+            "sold": "true",
+            "description": "Liquidificador potente para sucos e vitaminas",
+            "photos": null
+        },
+        {
+            "id": "sneakers",
+            "name": "Tênis Esportivo",
+            "user_id": "larissasantos@gmail.com",
+            "price": "129",
+            "sold": "false",
+            "description": "Tênis confortável para atividades esportivas",
+            "photos": null
+        },
+        {
+            "id": "coffee_maker",
+            "name": "Cafeteira",
+            "user_id": "joaozinho@gmail.com",
+            "price": "149",
+            "sold": "true",
+            "description": "Cafeteira automática para café fresco",
+            "photos": null
+        },
+        {
+            "id": "backpack",
+            "name": "Mochila",
+            "user_id": "mariasilva@gmail.com",
+            "price": "49",
+            "sold": "false",
+            "description": "Mochila resistente e espaçosa para viagens",
+            "photos": null
+        },
+        {
+            "id": "notebook",
+            "name": "Notebook",
+            "user_id": "joaozinho@gmail.com",
+            "price": "4399",
+            "sold": "false",
+            "description": "Notebook legal, muito bom e BARATO",
+            "photos": null
+        },
+        {
+            "id": "smartphone",
+            "name": "Smartphone",
+            "user_id": "mariasilva@gmail.com",
+            "price": "1299",
+            "sold": "true",
+            "description": "Smartphone de última geração",
+            "photos": null
+        },
+        {
+            "id": "tv",
+            "name": "Smart TV",
+            "user_id": "carlosrocha@gmail.com",
+            "price": "2999",
+            "sold": "false",
+            "description": "TV inteligente com resolução 4K",
+            "photos": null
+        },
+        {
+            "id": "headphones",
+            "name": "Fones de Ouvido",
+            "user_id": "anapereira@gmail.com",
+            "price": "99",
+            "sold": "true",
+            "description": "Fones de ouvido sem fio de alta qualidade",
+            "photos": null
+        },
+        {
+            "id": "camera",
+            "name": "Câmera Digital",
+            "user_id": "pedrofonseca@gmail.com",
+            "price": "799",
+            "sold": "false",
+            "description": "Câmera digital de 20MP com zoom óptico",
+            "photos": null
+        },
+        {
+            "id": "gaming_pc",
+            "name": "PC Gamer",
+            "user_id": "camilamoraes@gmail.com",
+            "price": "2499",
+            "sold": "false",
+            "description": "Computador Gamer de última geração",
+            "photos": null
+        },
+        {
+            "id": "smartwatch",
+            "name": "Smartwatch",
+            "user_id": "luciaoliveira@gmail.com",
+            "price": "199",
+            "sold": "false",
+            "description": "Relógio inteligente com monitor de atividades",
+            "photos": null
+        },
+        {
+            "id": "blender",
+            "name": "Liquidificador",
+            "user_id": "gustavocosta@gmail.com",
+            "price": "79",
+            "sold": "true",
+            "description": "Liquidificador potente para sucos e vitaminas",
+            "photos": null
+        },
+        {
+            "id": "sneakers",
+            "name": "Tênis Esportivo",
+            "user_id": "larissasantos@gmail.com",
+            "price": "129",
+            "sold": "false",
+            "description": "Tênis confortável para atividades esportivas",
+            "photos": null
+        },
+        {
+            "id": "coffee_maker",
+            "name": "Cafeteira",
+            "user_id": "joaozinho@gmail.com",
+            "price": "149",
+            "sold": "true",
+            "description": "Cafeteira automática para café fresco",
+            "photos": null
+        },
+        {
+            "id": "backpack",
+            "name": "Mochila",
+            "user_id": "mariasilva@gmail.com",
+            "price": "49",
+            "sold": "false",
+            "description": "Mochila resistente e espaçosa para viagens",
+            "photos": null
         }
     ]
 }
